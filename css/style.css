@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'B Yekan';
+    src: url(./../fonts/yekan.ttf);
+    src: url(./../fonts/yekan.otf);
+}
+
+@font-face {
+    font-family: 'B Koodak Bold';
+    src: url(./../fonts/koodak.ttf);
+    src: url(./../fonts/koodak.otf);
+}
+
+.y {
+	font-family: 'B Koodak Bold' !important;
+}
