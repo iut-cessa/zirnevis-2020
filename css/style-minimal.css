@@ -1570,7 +1570,8 @@ footer {
       -o-transform: translateX(-50%);
       transform: translateX(-50%);
       top: auto;
-      text-align: center; }
+      text-align: center; 
+    }
 
   h1.text-intro {
     font-size: 30px; }
