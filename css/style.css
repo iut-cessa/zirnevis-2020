@@ -12,13 +12,13 @@
 
 .y {
     font-family: 'B Koodak Bold' !important;
-    /* display: flex;
+    display: flex;
     align-items: center;
     font-size: 100%;
     max-width: 85%;
     flex-wrap: wrap;
     justify-content: center;
-    text-align: center */
+    text-align: center
 }
 .break {
     flex-basis: 100%;
