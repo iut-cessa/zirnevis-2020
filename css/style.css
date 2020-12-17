@@ -29,6 +29,29 @@
     position: absolute !important;
     left: 50% !important;
     top: 50% !important;
-    transform: translate(-9%, -50%) !important;
+    transform: translate(-6%, -50%) !important;
     padding: 10px !important;
+}
+
+.p_ras1{
+    margin-right: 31%;
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+
+.p_ras2{
+    margin-right: 27%;
+    -webkit-animation-name: fadeInUp;
+    animation-name: fadeInUp;
+}
+
+@media only screen and (max-width: 1024px) {
+    .p_ras1{
+        margin-right: 14px;
+    }
+    
+    .p_ras2{
+        margin-right: 22px;
+        
+    }
 }

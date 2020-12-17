@@ -1562,7 +1562,7 @@ footer {
     padding: 50px 0 150px; }
     #left-side .content {
       position: relative;
-      top: -145% !important;
+      top: -170% !important;
       left: 0;
       -webkit-transform: translateX(-50%);
       -moz-transform: translateX(-50%);
